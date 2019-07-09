@@ -1,2 +1,2 @@
 # Heartmadefactory.github.io
-Index
+Index.html
